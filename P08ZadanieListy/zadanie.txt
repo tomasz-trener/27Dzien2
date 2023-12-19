@@ -1,0 +1,15 @@
+Proszê rozwin¹æ projekt numer 4 w taki sposób, aby ka¿dorazowo, 
+kiedy pobierana jest temperatura dla miasta, jej wartoœæ bêdzie zapisywana w liœcie.
+
+Po ka¿dym pobraniu temperatury program powinien wyœwietlaæ œredni¹ temperaturê z aktualnej listy
+(wraz z nazwami wczeœniej wczytanych miast)
+
+
+Przyk³adowy Output:
+Podaj nazwê miasta: Warszawa
+Aktualna temperatura w Warszawie to: 25°C
+Œrednia temperatura z listy (Warszawa) to: 25°C
+Podaj nazwê miasta: Berlin
+Aktualna temperatura w Berlinie to: 22°C
+Œrednia temperatura z listy (Warszawa, Berlin) to: 23.5°C
+Podaj nazwê miasta:
