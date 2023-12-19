@@ -1,0 +1,25 @@
+Napisz program, który wczyta informacje o zawodnikach sportowych z pliku tekstowego dostêpnego online, 
+pozwoli u¿ytkownikowi wybraæ zawodników z okreœlonego kraju i zapisze tê informacjê w nowym pliku tekstowym.
+
+Wymagania
+   1. Wczytywanie Danych: Korzystaj¹c z klasy WebClient, pobierz wszystkie wiersze z pliku tekstowego 
+		dostêpnego pod adresem http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt. 
+		Wczytane wiersze zapisz w tablicy stringów.
+
+   2. Wybór Kraju: Poproœ u¿ytkownika o wprowadzenie nazwy kraju, dla którego chce wygenerowaæ 
+	listê zawodników. 
+	Program powinien byæ wra¿liwy na wielkoœæ liter, co oznacza, ¿e "pol" i "Pol" powinny byæ traktowane
+	jako ten sam kraj.
+
+   3. Generowanie Listy Zawodników: Na podstawie wprowadzonej przez u¿ytkownika nazwy kraju, 
+    wygeneruj listê imion i nazwisk zawodników z tego kraju. Zapisz te informacje w nowym pliku tekstowym.
+
+   4. Nazwa Pliku Wynikowego: Nazwa nowo utworzonego pliku powinna byæ sformatowana w nastêpuj¹cy sposób: 
+	{nazwa kraju}.txt. Na przyk³ad, jeœli u¿ytkownik wpisze "pol", wynikowy plik tekstowy powinien 
+	mieæ nazwê "pol.txt".
+
+Oczekiwane Wyniki:
+Po uruchomieniu programu, u¿ytkownik powinien byæ w stanie wprowadziæ nazwê kraju i 
+otrzymaæ plik tekstowy z list¹ zawodników, którzy pochodz¹ z tego kraju. 
+Program powinien obs³u¿yæ przypadki, w których nazwa kraju jest wprowadzona ró¿nymi 
+kombinacjami wielkich i ma³ych liter.
