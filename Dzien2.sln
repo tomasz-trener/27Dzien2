@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04ZadanieTablice", "P04Zad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05ObslugaBledow", "P05ObslugaBledow\P05ObslugaBledow.csproj", "{AB5FD5A3-A857-47ED-97CB-42E6280F3F15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06KonwersjaTablicOrazNapisow", "P06KonwersjaTablicOrazNapisow\P06KonwersjaTablicOrazNapisow.csproj", "{BC01364F-C6B8-46CE-95E2-F552E47F291F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AB5FD5A3-A857-47ED-97CB-42E6280F3F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5FD5A3-A857-47ED-97CB-42E6280F3F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5FD5A3-A857-47ED-97CB-42E6280F3F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC01364F-C6B8-46CE-95E2-F552E47F291F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC01364F-C6B8-46CE-95E2-F552E47F291F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC01364F-C6B8-46CE-95E2-F552E47F291F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC01364F-C6B8-46CE-95E2-F552E47F291F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
