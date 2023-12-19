@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12TabliceTablic", "P12Tabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13ZadanieTabliceTablic", "P13ZadanieTabliceTablic\P13ZadanieTabliceTablic.csproj", "{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14ListaList", "P14ListaList\P14ListaList.csproj", "{7AC54418-F7BB-41E3-A9E5-758C79744D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC54418-F7BB-41E3-A9E5-758C79744D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC54418-F7BB-41E3-A9E5-758C79744D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC54418-F7BB-41E3-A9E5-758C79744D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC54418-F7BB-41E3-A9E5-758C79744D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
