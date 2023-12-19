@@ -1,0 +1,8 @@
+Napisz program, który prosi o podanie nazwy dowolnego miasta
+a nastêpnie wypisuje w konsoli  aktualn¹ temperaturê w danym mieœcie
+i pyta ponownie 
+
+Przyk³adowy output:
+Podaj nazwê miasta: Warszawa
+Aktualna temperatura w Warszawie to: 25°C
+Podaj nazwê miasta: 
