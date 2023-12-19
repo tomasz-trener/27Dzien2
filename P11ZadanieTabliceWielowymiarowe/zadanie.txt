@@ -1,0 +1,6 @@
+ze strony:
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+wczytaj tylko dane zawodników (bez nag³ówków) do tablicy dwuwymiarowej. 
+
+potem wyswietl te dane w konsoli 
