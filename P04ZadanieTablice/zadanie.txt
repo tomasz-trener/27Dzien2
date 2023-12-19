@@ -1,0 +1,18 @@
+Stwórz manulanie na dysku plik zawieraj¹cy zestaw przyk³adowych miast, 
+takich jak Warszawa, Kraków i Wroc³aw, ka¿de w osobnym wierszu. 
+
+Nastêpnie program powinien wczytaæ te dane do tablicy przy u¿yciu funkcji File.ReadAllLines.
+
+Po uruchomieniu programu, u¿ytkownikowi zostan¹ wyœwietlone wszystkie dostêpne miasta, 
+ponumerowane w nawiasach kwadratowych, np.:
+
+[1] Warszawa 
+[2] Kraków
+[3] Wroc³aw
+
+U¿ytkownik bêdzie mia³ mo¿liwoœæ wprowadzenia numeru miasta,
+dla którego chce poznaæ temperaturê. 
+
+Na przyk³ad, jeœli u¿ytkownik wprowadzi numer 2, 
+program powinien zwróciæ temperaturê dla Krakowa.
+Nastepnie program ponownie oczekuje podania numeru miasta. 
