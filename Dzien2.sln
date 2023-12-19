@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10TabliceWielowymiarowe", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11ZadanieTabliceWielowymiarowe", "P11ZadanieTabliceWielowymiarowe\P11ZadanieTabliceWielowymiarowe.csproj", "{26089A5B-779B-4A92-AD9F-501EF55CDB44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12TabliceTablic", "P12TabliceTablic\P12TabliceTablic.csproj", "{A213D5B4-A0BB-42E4-A515-9E9AEB11F44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13ZadanieTabliceTablic", "P13ZadanieTabliceTablic\P13ZadanieTabliceTablic.csproj", "{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{26089A5B-779B-4A92-AD9F-501EF55CDB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26089A5B-779B-4A92-AD9F-501EF55CDB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26089A5B-779B-4A92-AD9F-501EF55CDB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A213D5B4-A0BB-42E4-A515-9E9AEB11F44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A213D5B4-A0BB-42E4-A515-9E9AEB11F44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A213D5B4-A0BB-42E4-A515-9E9AEB11F44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A213D5B4-A0BB-42E4-A515-9E9AEB11F44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18673EB-F6BB-4826-98DA-0B4B132B5A1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+ze strony:
+http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+wczytaj dane do tablicy tablic
+potem wyswietl te dane w konsoli 
+
+
