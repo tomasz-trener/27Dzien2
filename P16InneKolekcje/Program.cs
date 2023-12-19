@@ -31,6 +31,12 @@ namespace P16InneKolekcje
 
             int ostatni = stos.Pop(); // usuwa i zwraca ostatni element ze stosu 
 
+            foreach (var item in stos) // kolejnosc zgodna z typem kolekcji czyli dla stosu bedzie 3,2,1
+            {
+                Console.WriteLine(item);
+            }
+             
+
             // zastosowanie: np obsługa magazynu aby produkty nie leżały w magazynie zbyt długo 
 
             // 3. HasSet (Zbiór)
